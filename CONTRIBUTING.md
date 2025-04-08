@@ -1,5 +1,5 @@
 # Elray's Software
-![logo](images/ElraysSoftware-Logo.png)
+![logo](Images/ElraysSoftware-Logo.png)
 
 ## Contributing
 - We welcome contributors at all levels.
